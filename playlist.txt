@@ -6,3 +6,21 @@ Circles
 Post Malone
 All I Have To Do Is Dream	The Everly Brothers
 All Shook Up	Elvis Presley
+10	The Twist	Chubby Checker	1960	Oldies
+11	Build Me Up Buttercup	Foundations	1968	Oldies
+12	Unchained Melody	Righteous Brothers	1965	Oldies
+13	Stand By Me	Ben E. King	1961	Oldies
+14	Fly Me To The Moon	Frank Sinatra	1964	Big Band
+15	I Can't Help Myself (Sugar Pie, Honey Bunch)	Four Tops	1965	Oldies
+16	Ain't No Mountain High Enough	Marvin Gaye & Tammi Terrell	1967	Oldies
+17	All You Need Is Love	Beatles	1967	Oldies
+18	Ring Of Fire	Johnny Cash	1963	Oldies
+19	(Sittin' On) The Dock Of The Bay	Otis Redding	1968	Oldies
+20	When A Man Loves A Woman	Percy Sledge	1966	Oldies
+21	Respect	Aretha Franklin	1967	Oldies
+22	Wouldn't It Be Nice	Beach Boys	1966	Oldies
+23	Mustang Sally	Wilson Pickett	1966	Oldies
+24	L-O-V-E	Nat King Cole	1964	Ballad
+25	Can't Take My Eyes Off You	Frankie Valli	1967	Oldies
+26	Runaround Sue	Dion	1961	Oldies
+27	Proud Mary
